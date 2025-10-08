@@ -120,7 +120,7 @@ You can deploy this Interactive Twitter Sentiment Dashboard locally or on a clou
 ### Local Deployment
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Interactive-Twitter-Sentiment-Dashboard.git
+    git clone https://github.com/Sumayya-Samreen/Interactive-Twitter-Sentiment-Dashboard.git
     cd Interactive-Twitter-Sentiment-Dashboard
     ```
 2. Set up your virtual environment:
@@ -158,6 +158,6 @@ This project demonstrates a complete natural language processing (NLP) and AI pi
 ---
 
 ## Author
-**Sumayya — M.Sc. in Artificial Intelligence**  
+**Sumayya Samreen — M.Sc. in Artificial Intelligence**  
 Focused on developing practical AI solutions for real-time data analysis, natural language understanding, and interactive data visualization.
 
