@@ -1,4 +1,3 @@
-
 # Interactive Twitter Sentiment Dashboard
 
 An interactive Python dashboard that collects recent tweets from Twitter, performs sentiment analysis, summarizes them with AI, and visualizes trends. Keywords and tweet limits are configurable for flexibility.
@@ -153,10 +152,12 @@ You can deploy this Interactive Twitter Sentiment Dashboard locally or on a clou
 
 ---
 
-## Acknowledgements
+## Pro Tip for Recruiters / Collaborators
+This project demonstrates a complete natural language processing (NLP) and AI pipeline, from real-time data collection and preprocessing to sentiment analysis, AI-based summarization, and interactive visualization. It highlights expertise in API integration, text analytics, machine learning, data visualization, and end-to-end workflow implementation, making it a strong portfolio example for roles in AI engineering, data science, and NLP application development.
 
-- [Tweepy](https://www.tweepy.org/) — Twitter API integration  
-- [VADER Sentiment](https://github.com/cjhutto/vaderSentiment) — sentiment analysis  
-- [HuggingFace Transformers](https://huggingface.co/) — AI summarization  
-- [Matplotlib](https://matplotlib.org/) & [Plotly](https://plotly.com/) — visualization  
-- [WordCloud](https://github.com/amueller/word_cloud) — word cloud visualization  
+---
+
+## Author
+**Sumayya — M.Sc. in Artificial Intelligence**  
+Focused on developing practical AI solutions for real-time data analysis, natural language understanding, and interactive data visualization.
+
