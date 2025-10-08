@@ -1,0 +1,16 @@
+# Environment files
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files (optional, depending on your editor)
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db

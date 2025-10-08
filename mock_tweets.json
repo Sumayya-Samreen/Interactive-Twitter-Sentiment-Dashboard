@@ -1,0 +1,15 @@
+{
+  "#AI": [
+    {"text": "AI is revolutionizing the world!"},
+    {"text": "AI can be dangerous if misused."},
+    {"text": "I love working with AI projects."}
+  ],
+  "#MachineLearning": [
+    {"text": "Machine learning models are improving fast."},
+    {"text": "ML is the future of data science."}
+  ],
+  "Python": [
+    {"text": "Python is my favorite programming language."},
+    {"text": "I am learning Python for AI projects."}
+  ]
+}
