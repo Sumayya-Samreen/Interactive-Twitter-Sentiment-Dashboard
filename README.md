@@ -105,7 +105,12 @@ MAX_TWEETS=50
 - Requires a Twitter Developer account for the **Bearer Token**.  
 - Free tier accounts have rate limits; the script handles rate limiting automatically.  
 - **Due to monthly API usage caps on Twitter’s free tier, this project currently uses mock tweets for demonstration once the limit is reached.**  
-- `.env` is ignored via `.gitignore` for security.  
+- To use **real tweets without mock data**, upgrade to a Twitter Developer paid tier or ensure you have enough monthly API allowance.  
+- Then in the file `twitter_search.py`, adjust the `USE_MOCK_DATA` flag to `False`:  
+  ```python
+  USE_MOCK_DATA = False
+  ```
+- `.env` is ignored via `.gitignore` for security.
 
 ---
 
