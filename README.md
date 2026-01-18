@@ -21,7 +21,7 @@ An interactive Python dashboard that collects recent tweets from Twitter, perfor
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Interactive-Twitter-Sentiment-Dashboard.git
+    git clone https://github.com/Sumayya-Samreen/Interactive-Twitter-Sentiment-Dashboard.git
     cd Interactive-Twitter-Sentiment-Dashboard
     ```
 
