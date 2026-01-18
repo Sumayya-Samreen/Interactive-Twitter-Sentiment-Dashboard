@@ -158,6 +158,6 @@ This project demonstrates a complete natural language processing (NLP) and AI pi
 ---
 
 ## Author
-**Sumayya Samreen — M.Sc. in Artificial Intelligence**  
+**Sumayya Samreen — M.Sc. in Artificial Intelligence**<br>
 Focused on developing practical AI solutions for real-time data analysis, natural language understanding, and interactive data visualization.
 
